@@ -113,3 +113,7 @@ _공통아이템 - 참여인원 전원 2차 사다리_<br />
 ! [뷰포인트] (https://user-images.githubusercontent.com/91187660/138017104-5924571b-83ff-4589-976b-cd3157858190.jpg)
 
 ## [퍼즐 계산기](https://myar.tistory.com/entry/ninokuni-tetro-puzzle-calculator)
+![심연석 지도](https://user-images.githubusercontent.com/91187660/233033778-e0d04c01-053c-41b9-83b9-ca0ca36668f4.png)
+![40보스](https://user-images.githubusercontent.com/91187660/233033789-db6f36d3-a3a4-4792-8c85-b8f927222311.png)
+![45보스](https://user-images.githubusercontent.com/91187660/233033796-69cbd35f-3e64-4b15-8024-25a052300ed9.png)
+![50보스](https://user-images.githubusercontent.com/91187660/233033803-a4c18c47-1db4-47af-afa9-5c3a29f741d4.png)
